@@ -19,6 +19,7 @@ Ask the user to make an input.
 Print out the answer.
 End.
 ## PROGRAM:
+```
 #include<stdio.h>
 int main()
 {
@@ -26,6 +27,7 @@ char a[20];
 scanf("%[^\n]",a);
 printf("Hello, Saveetha!\n%s",a);
 }
+```
 ## OUTPUT:
 
 <img width="564" height="234" alt="image" src="https://github.com/user-attachments/assets/4cc83b06-7e71-4940-8d75-d70e44107850" />
