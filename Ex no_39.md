@@ -3,7 +3,7 @@
 ## AIM:
 To write a C program to find sum of digits.
 
-## Algorithm
+## Algorithm:
 Start.
 Define a variables.
 Write a program to print the English word corresponding to the given number.
